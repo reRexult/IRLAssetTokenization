@@ -11,6 +11,7 @@ contract AssetSale is Crowdsale {
         Crowdsale(rate, wallet, token)
         public
     {
+    	
 
     }
 }
